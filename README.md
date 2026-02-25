@@ -40,7 +40,7 @@ Usage:
 
 -Select one or more objects in the scene.
 
--Run the script.
+-Run the 3DsMax_Clean_pivots.ms script.
 
 -The script will create "_clean" duplicates of the selected objects in active layer.
 
